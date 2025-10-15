@@ -1,8 +1,7 @@
 # 👋 ¡Hola! Soy Jonathan Murray
 
 🎓 **Estudiante de Programación en la UTN**  
-💻 **Desarrollador Full Stack** apasionado por crear soluciones con **Python, Django, React y MySQL**  
-🚀 En constante aprendizaje y mejorando cada día mis habilidades en desarrollo web.
+💻 **Desarrollador Full Stack** apasionado por crear soluciones con **Python, Django, React y MySQL** 
 
 ---
 
