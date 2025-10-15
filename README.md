@@ -24,8 +24,8 @@ Incluye sonidos, protección contra perder en el primer clic y lógica totalment
 ---
 
 ## 📫 Cómo contactarme
-📧 **murray.jonathaan@gmail.com** *(cambiá por tu correo real)*  
-💼 [LinkedIn](https://www.linkedin.com/in/tuusuario) *(si tenés perfil)*  
+📧 **murray.jonathaan@gmail.com** 
+💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
 
 ---
 
