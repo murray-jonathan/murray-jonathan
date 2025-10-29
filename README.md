@@ -25,7 +25,6 @@ Incluye sonidos, protección contra perder en el primer clic y lógica totalment
 ### 🧩 [API REST CRUD con Spring Boot](https://github.com/murray-jonathan/java-crud-api-rest)
 Un proyecto backend desarrollado en **Java + Spring Boot**, con conexión a base de datos **PostgreSQL** mediante **Hibernate (JPA)**.  
 Implementa operaciones **CRUD** completas (crear, leer, actualizar y eliminar) a través de una API RESTful.  
-Ideal como base para proyectos empresariales o para aprender desarrollo backend con Java.
 
 ---
 
