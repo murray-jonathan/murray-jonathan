@@ -1,15 +1,13 @@
 # 👋 ¡Hola! Soy Jonathan Murray
 
-🎓 **Estudiante de Programación en la UTN**  
-💻 **Desarrollador Full Stack** apasionado por crear soluciones con **Python, Django, React y MySQL** 
+🎓 **Analista de Datos y Estudiante de Programación en la UTN**  
 
 ---
 
 ## 🧠 Tecnologías y herramientas
-- **Lenguajes:** Python, Java, JavaScript, SQL  
-- **Backend:** Django, Flask, Spring Boot  
-- **Frontend:** React, HTML, CSS, 
-- **Base de datos:** MySQL, SQLite, PostgreSQL  
+- **Analisis de datos:** Power BI, Looker Studio, Pandas, Numpy, seaborn, matplotlib
+- **Lenguajes:** Python, Java, JavaScript, SQL   
+- **Base de datos:** MySQL, PostgreSQL  
 - **Otras herramientas:** Git, Linux, Docker
 
 ---
