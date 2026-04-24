@@ -1,13 +1,19 @@
 # 👋 ¡Hola! Soy Jonathan Murray
 
-🎓 **Analista de Datos y Estudiante de Programación en la UTN**  
+💻 **Backend Developer | Python | Java | Spring Boot | Django | Flask**  
+
+🎓 **Programming Student at UTN**  
 
 ---
 
 ## 🧠 Tecnologías y herramientas
-- **Analisis de datos:** Power BI, Looker Studio, Pandas, Numpy, seaborn, matplotlib
-- **Lenguajes:** Python, Java, JavaScript, SQL   
-- **Base de datos:** MySQL, PostgreSQL  
+
+- **Backend Development:** Spring Boot, Django, Flask, REST APIs  
+
+- **Lenguajes:** Python, Java, JavaScript, SQL  
+
+- **Bases de datos:** MySQL, PostgreSQL  
+
 - **Otras herramientas:** Git, Linux, Docker
 
 ---
