@@ -1,70 +1,99 @@
-# 👋 ¡Hola! Soy Jonathan Murray
+# 👋 Hi, I'm Jonathan Murray
 
-💻 **Java Full Stack Developer | Java | Spring Boot | React | SQL**
+💻 **Full Stack Developer | React | Next.js | Node.js | Express.js | Spring Boot | MongoDB**
 
-🎓 **Programming Student at UTN**
-
----
-
-## 🧠 Tecnologías y herramientas
-
-- **Backend Development:** Java, Spring Boot, Spring Data JPA, Hibernate, REST APIs, Django, Flask
-
-- **Frontend Development:** React, JavaScript, HTML, CSS
-
-- **Lenguajes:** Java, Python, JavaScript, SQL
-
-- **Bases de datos:** PostgreSQL, MySQL
-
-- **Herramientas:** Git, GitHub, Docker, Linux, Maven
+🎓 **Programming Student at Universidad Tecnológica Nacional (UTN)**
 
 ---
 
-## 🚀 Proyectos destacados
+## 🧠 Tech Stack
+
+### Frontend
+
+* React
+* Next.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+### Backend
+
+* Node.js
+* Express.js
+* Spring Boot
+* REST APIs
+
+### Databases
+
+* MongoDB
+* PostgreSQL
+* MySQL
+
+### Languages
+
+* JavaScript
+* Java
+* SQL
+
+### Tools
+
+* Git
+* GitHub
+* Docker
+* Linux
+
+---
+
+## 🚀 Featured Projects
 
 ### 🐶 Dog Search App — Full Stack Application
 
-Aplicación web full stack para buscar razas de perros utilizando la API externa **Dog API**.
+A full stack web application that allows users to search dog breeds using **The Dog API**.
 
-Permite buscar una raza y visualizar información relacionada mediante una interfaz desarrollada en React y un backend desarrollado con Spring Boot.
+The frontend was built with **React**, while the backend was developed with **Spring Boot** to consume the external API and expose RESTful endpoints.
 
-**Tecnologías utilizadas:**
-- Java + Spring Boot
-- React
-- REST API
-- SQL
-- Git
+**Technologies**
 
-🔗 **Demo:** (https://dog-finder-frontend.vercel.app)
+* React
+* Spring Boot
+* REST APIs
+* PostgreSQL
+* Git
 
-💻 **Frontend Repository:** (https://github.com/murray-jonathan/dog-finder-frontend)
+🌐 **Live Demo:** https://dog-finder-frontend.vercel.app
 
-💻 **Backend Repository:** (https://github.com/murray-jonathan/dog-finder-backend)
+💻 **Frontend Repository:** https://github.com/murray-jonathan/dog-finder-frontend
 
----
-
-### 🕹️ [Buscaminas en Pygame](https://github.com/murray-jonathan/Pygame)
-
-Juego clásico desarrollado en **Python + Pygame**, con sistema de menú, niveles de dificultad, temporizador, puntuaciones y diseño personalizado.
-
-Incluye sonidos, protección contra perder en el primer clic y una estructura modular para organizar la lógica del juego.
+💻 **Backend Repository:** https://github.com/murray-jonathan/dog-finder-backend
 
 ---
 
-### 🧩 [API REST CRUD con Spring Boot](https://github.com/murray-jonathan/java-crud-api-rest)
+### 🕹️ Minesweeper (Pygame)
 
-Proyecto backend desarrollado con **Java + Spring Boot**, con conexión a base de datos **PostgreSQL** utilizando **Hibernate (JPA)**.
+Classic Minesweeper game developed with **Python** and **Pygame**.
 
-Implementa operaciones **CRUD completas** mediante una API RESTful siguiendo una arquitectura en capas.
+Features multiple difficulty levels, timer, scoring system, custom UI, sound effects, first-click protection, and a modular architecture for better maintainability.
 
----
-
-## 📫 Cómo contactarme
-
-📧 **murray.jonathaan@gmail.com**
-
-💼 [LinkedIn](https://www.linkedin.com/in/jonathan-murrray/)
+🔗 Repository: https://github.com/murray-jonathan/Pygame
 
 ---
 
-⭐ Gracias por visitar mi perfil.
+### 🧩 Spring Boot REST API
+
+RESTful backend application built with **Java**, **Spring Boot**, and **PostgreSQL** using **Spring Data JPA** and **Hibernate**.
+
+Implements complete CRUD operations following a layered architecture and REST API best practices.
+
+🔗 Repository: https://github.com/murray-jonathan/java-crud-api-rest
+
+---
+
+## 📫 Contact
+
+📧 **[murray.jonathaan@gmail.com](mailto:murray.jonathaan@gmail.com)**
+
+💼 **LinkedIn:** https://www.linkedin.com/in/jonathan-murrray/
+
+---
+
+⭐ Thanks for visiting my profile!
